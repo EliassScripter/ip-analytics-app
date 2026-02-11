@@ -1,0 +1,54 @@
+[
+    {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-02-11 21:50:22",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+        "network_info": {
+            "version": "IPv4",
+            "network": "127.0.0.0",
+            "mask": "255.255.255.0",
+            "cidr": "24"
+        },
+        "hostname": "Plakrex-info",
+        "geo": null
+    },
+    {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-02-11 21:51:20",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+        "network_info": {
+            "version": "IPv4",
+            "network": "127.0.0.0",
+            "mask": "255.255.255.0",
+            "cidr": "24"
+        },
+        "hostname": "Plakrex-info",
+        "geo": null
+    },
+    {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-02-11 21:51:35",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "network_info": {
+            "version": "IPv4",
+            "network": "127.0.0.0",
+            "mask": "255.255.255.0",
+            "cidr": "24"
+        },
+        "hostname": "Plakrex-info",
+        "geo": null
+    },
+    {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-02-11 21:53:34",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "network_info": {
+            "version": "IPv4",
+            "network": "127.0.0.0",
+            "mask": "255.255.255.0",
+            "cidr": "24"
+        },
+        "hostname": "Plakrex-info",
+        "geo": null
+    }
+]
